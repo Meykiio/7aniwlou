@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="48" fill="#0EA5E9"/>
+  <g fill="#FFFFFF">
+    <circle cx="72" cy="128" r="18"/>
+    <circle cx="128" cy="128" r="18"/>
+    <circle cx="184" cy="128" r="18"/>
+  </g>
+  <path d="M40 176c24-24 56-36 88-36s64 12 88 36" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <title>7aniwlou</title>
+  <desc>Simple favicon for 7aniwlou platform</desc>
+</svg>
